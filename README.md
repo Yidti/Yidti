@@ -71,7 +71,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 -->
 
-## About Me
+## :baby: About Me
 - `Work Experience`: CATIA secondary development in car parts by using C# Windows Forms for 4 years.
 - `Hobbies`: Watching movies, reading books and exercising.
 - `Self-Learning`
@@ -80,12 +80,12 @@
   - `Udemy`:punch: In Progress ***[The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)***
   - `FreeCodeCamp`:punch: In progress ***[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)***
 
-## Blog
+## :pencil2: Blog
 <a href="https://yidti.github.io/">
   <img src="https://img.shields.io/badge/Hugo-12100E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-## How to Reace me
+## :envelope:	How to Reace me
 <a href="https://www.linkedin.com/in/sola-lu-651a9113/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
@@ -93,8 +93,8 @@
   <img src="https://img.shields.io/badge/gmail-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
 </a>
 
-## My Stats
+## :hourglass_flowing_sand:	My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yidti&theme=light&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yidti)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yidti&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yidti&langs_count=8&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
