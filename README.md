@@ -92,3 +92,9 @@
 <a href="mailto:bonjour.luc@gmail.com">
   <img src="https://img.shields.io/badge/gmail-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
 </a>
+
+## My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yidti&theme=light&background=ffffff)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yidti&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
