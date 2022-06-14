@@ -74,7 +74,7 @@
 ## :baby: About Me
 - `Work Experience`: CATIA secondary development in car parts by using C# Windows Forms for 4 years.
 - `Hobbies`: Watching movies, reading books and exercising.
-- `Self-Learning`
+- `Self-Learning Courses`
   - `Udemy`:+1: Course Certificate ***[The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)***
   - `Udemy`:punch: In Progress ***[The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)***
   - `Udemy`:punch: In Progress ***[The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)***
