@@ -2,10 +2,11 @@
 **```Forget everything you think you know. & Open your eye. (Doctor Strange)```** :eye:
 
 ## :bulb: Side Project 
-| **Project**      |  **Description**         | **Demo**                                         | **Skills**                             |
-| :---------------:|:------------------------:|:------------------------------------------------:| :------------------------------------- |
-| morse-cat        | Morse Code Translator    | [Link](https://github.com/Yidti/morse-cat)       | `Python`                               |
-| tic-tac-toe-cat  | Tic-tac-toe Game         | [Link](https://github.com/Yidti/tic-tac-toe-cat) | `Python`                               |
+| **Project**      |  **Description**       | **Demo**                                           | **Skills**       |**Note**
+| :---------------:|:----------------------:|:------------------------------------------------:  | :----------------|----------
+| morse-cat        | Morse Code Translator  | [Link](https://github.com/Yidti/morse-cat)         | `Python`         | `Console`
+| tic-tac-toe-cat  | Tic-tac-toe Game       | [Link](https://github.com/Yidti/tic-tac-toe-cat)   | `Python`         | `Console`
+| watermarking-cat | Watermark Tool         | [Link](https://github.com/Yidti/watermarking-cat)  | `Python`         | `Tkinter`
 
 ## :hammer_and_wrench: Languages and Tools
 
