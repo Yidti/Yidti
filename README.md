@@ -7,6 +7,8 @@
 | morse-cat        | Morse Code Translator  | [Link](https://github.com/Yidti/morse-cat)         | `Python`         | `Console`
 | tic-tac-toe-cat  | Tic-tac-toe Game       | [Link](https://github.com/Yidti/tic-tac-toe-cat)   | `Python`         | `Console`
 | watermarking-cat | Watermark Tool         | [Link](https://github.com/Yidti/watermarking-cat)  | `Python`         | `Tkinter`
+| typing-cat       | Test Typing Speed      | [Link](https://github.com/Yidti/typing-cat)        | `Python`         | `Tkinter`
+
 
 ## :hammer_and_wrench: Languages and Tools
 
