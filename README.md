@@ -2,13 +2,14 @@
 **```Forget everything you think you know. & Open your eye. (Doctor Strange)```** :eye:
 
 ## :bulb: Side Project 
-| **Project**      |  **Description**       | **Demo**                                           | **Skills**       |**Note**
-| :---------------:|:----------------------:|:------------------------------------------------:  | :----------------|----------
-| morse-cat        | Morse Code Translator  | [Link](https://github.com/Yidti/morse-cat)         | `Python`         | `Console`
-| tic-tac-toe-cat  | Tic-tac-toe Game       | [Link](https://github.com/Yidti/tic-tac-toe-cat)   | `Python`         | `Console`
-| watermarking-cat | Watermark Tool         | [Link](https://github.com/Yidti/watermarking-cat)  | `Python`         | `Tkinter`
-| typing-cat       | Test Typing Speed      | [Link](https://github.com/Yidti/typing-cat)        | `Python`         | `Tkinter`
-| breakout-cat     | Breakout Game          | [Link](https://github.com/Yidti/breakout-cat)        | `Python`       | `Turtle`
+| **Project**      |  **Description**            | **Demo**                                           | **Skills**       |**Note**
+| :---------------:|:---------------------------:|:------------------------------------------------:  | :----------------|----------
+| morse-cat        | Morse Code Translator       | [Link](https://github.com/Yidti/morse-cat)         | `Python`         | `Console`
+| tic-tac-toe-cat  | Tic-tac-toe Game            | [Link](https://github.com/Yidti/tic-tac-toe-cat)   | `Python`         | `Console`
+| watermarking-cat | Watermark Tool              | [Link](https://github.com/Yidti/watermarking-cat)  | `Python`         | `Tkinter`
+| typing-cat       | Test Typing Speed           | [Link](https://github.com/Yidti/typing-cat)        | `Python`         | `Tkinter`
+| breakout-cat     | Breakout Game               | [Link](https://github.com/Yidti/breakout-cat)      | `Python`         | `Turtle`
+| house-cat        | Web Crawler - House         | [Link](https://github.com/Yidti/house-cat)         | `Python`         | `Selenium`
 
 
 ## :hammer_and_wrench: Languages and Tools
