@@ -2,6 +2,13 @@
 **```Forget everything you think you know. & Open your eye. (Doctor Strange)```** :eye:
 
 ## :bulb: Side Project 
+
+| **Project**      |  **Description**            | **Demo**                                           | **Skills**       |**Note**
+| :---------------:|:---------------------------:|:------------------------------------------------:  | :----------------|----------
+| jobscan          | Find 104 jobs in Taiwan     | [Link](https://github.com/Yidti/jobscan)           | `Python`         | `Docker, Airflow`
+
+## :bulb: Small Project 
+
 | **Project**      |  **Description**            | **Demo**                                           | **Skills**       |**Note**
 | :---------------:|:---------------------------:|:------------------------------------------------:  | :----------------|----------
 | morse-cat        | Morse Code Translator       | [Link](https://github.com/Yidti/morse-cat)         | `Python`         | `Console`
