@@ -3,8 +3,6 @@
 
 ## :bulb: Side Project 
 
-## :bulb: Side Project 
-
 | **Project**          |  **Description**            | **Demo**                                             | **Skills**       |**Note**
 | :-------------------:|:---------------------------:|:---------------------------------------------------:| :----------------|----------
 | jobscan              | Find 104 jobs in Taiwan     | [Link](https://github.com/Yidti/jobscan)             | `Python`         | `Docker, Airflow`
