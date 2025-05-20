@@ -1,11 +1,15 @@
 # Hello, I'm Sola Lu 👋 ![](https://komarev.com/ghpvc/?username=yidti)
-**```Forget everything you think you know. & Open your eye. (Doctor Strange)```** :eye:
+**```Forget everything you think you know and open your eyes. – Doctor Strange```** :eye:
 
 ## :bulb: Side Project 
 
-| **Project**      |  **Description**            | **Demo**                                           | **Skills**       |**Note**
-| :---------------:|:---------------------------:|:------------------------------------------------:  | :----------------|----------
-| jobscan          | Find 104 jobs in Taiwan     | [Link](https://github.com/Yidti/jobscan)           | `Python`         | `Docker, Airflow`
+## :bulb: Side Project 
+
+| **Project**          |  **Description**            | **Demo**                                             | **Skills**       |**Note**
+| :-------------------:|:---------------------------:|:---------------------------------------------------:| :----------------|----------
+| jobscan              | Find 104 jobs in Taiwan     | [Link](https://github.com/Yidti/jobscan)             | `Python`         | `Docker, Airflow`
+| futures-stock-info   | Futures & Stock Web Crawler | [Link](https://github.com/Yidti/futures-stock-info)  | `Python`         | `Crawler, TWSE, Futures`
+
 
 ## :bulb: Small Project 
 
@@ -88,20 +92,19 @@
 -->
 
 ## :baby: About Me
-- `Work Experience`: CATIA secondary development in car parts by using C# Windows Forms for 4 years.
+- `Work Experience`: 4 years of CATIA secondary development for car parts using C# Windows Forms.
 - `Hobbies`: Watching movies, reading books and exercising.
 - `Self-Learning Courses`
-  - `Udemy`:+1: Course Certificate ***[The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)***
-  - `Udemy`:punch: In Progress ***[The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)***
-  - `Udemy`:punch: In Progress ***[The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)***
-  - `FreeCodeCamp`:punch: In progress ***[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)***
+  - `Udemy`: ✅ Completed ***[The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)***
+  - `Udemy`: ✅ Completed ***[The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)***
+  - `FreeCodeCamp`: ✅ Completed ***[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)***
 
 ## :pencil2: Blog
 <a href="https://yidti.github.io/">
   <img src="https://img.shields.io/badge/Hugo-12100E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-## :envelope:	How to Reace me
+## :envelope:	How to Reach me
 <a href="https://www.linkedin.com/in/sola-lu-651a9113/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
