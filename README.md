@@ -102,6 +102,14 @@
   <img src="https://img.shields.io/badge/Hugo-12100E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+
+<a href="https://vocus.cc/salon/65d7fc92fd89780001d161ba/room/66d8629efd89780001991250">
+  <img src="https://resize-image.vocus.cc/resize?norotation=true&quality=40&url=https%3A%2F%2Fimages.vocus.cc%2Fdac3ba82-d499-4713-b9e6-345490ca87d3.jpeg&width=400&sign=9CqsmtZuav5EMXkhMYWcMZt8XIW6nP6bCx7la8YvEmw" 
+       style="width:40px; height:40px; object-fit:cover; border-radius:6px;">
+</a>
+
+
+
 ## :envelope:	How to Reach me
 <a href="https://www.linkedin.com/in/sola-lu-651a9113/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
