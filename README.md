@@ -5,8 +5,9 @@
 
 | **Project**          |  **Description**            | **Demo**                                             | **Skills**       |**Note**
 | :-------------------:|:---------------------------:|:---------------------------------------------------:| :----------------|----------
-| jobscan              | Find 104 jobs in Taiwan     | [Link](https://github.com/Yidti/jobscan)             | `Python`         | `Docker, Airflow`
-| futures-stock-info   | Futures & Stock Web Crawler | [Link](https://github.com/Yidti/futures-stock-info)  | `Python`         | `Crawler, TWSE, Futures`
+| med-appointment      | med appointment system      | [Link](https://github.com/Yidti/med-appointment)   | `Python`         | `Django, Vue, AWS`
+| jobscan              | Find 104 jobs in Taiwan     | [Link](https://github.com/Yidti/jobscan)            | `Python`         | `Docker, Airflow`
+| futures-stock-info   | Futures & Stock Web Crawler | [Link](https://github.com/Yidti/futures-stock-info) | `Python`         | `Crawler, TWSE, Futures`
 
 
 ## :bulb: Small Project 
