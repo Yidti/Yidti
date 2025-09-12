@@ -5,7 +5,7 @@
 
 | **Project**          |  **Description**            | **Demo**                                             | **Skills**       |**Note**
 | :-------------------:|:---------------------------:|:---------------------------------------------------:| :----------------|----------
-| med-appointment      | med appointment system      | [Link](https://github.com/Yidti/med-appointment)   | `Python`         | `Django, Vue, AWS`
+| med-appointment      | med appointment system      | [Link](https://github.com/Yidti/med-appointment)   | `Python`         | `Django, Vue, GCP`
 | jobscan              | Find 104 jobs in Taiwan     | [Link](https://github.com/Yidti/jobscan)            | `Python`         | `Docker, Airflow`
 | futures-stock-info   | Futures & Stock Web Crawler | [Link](https://github.com/Yidti/futures-stock-info) | `Python`         | `Crawler, TWSE, Futures`
 
